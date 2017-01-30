@@ -1,0 +1,211 @@
+{
+  "statuses":  [
+     {
+      "created_at": "Mon Nov 14 22:35:18 +0000 2016",
+      "id": 798293257629204500,
+      "id_str": "798293257629204480",
+      "text": "(51/75) 1000 books could be written on 2016 dem primary inconsistencies that were widely & willfully ignored. https://t.co/QDaGO93Dap",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  [
+           {
+            "url": "https://t.co/QDaGO93Dap",
+            "expanded_url": "http://alexanderhiggins.com/stanford-berkley-study-1-77-billion-chance-hillary-won-primary-without-widespread-election-fraud/",
+            "display_url": "alexanderhiggins.com/stanford-berkl…",
+            "indices":  [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+      "in_reply_to_status_id": 798293058307510300,
+      "in_reply_to_status_id_str": "798293058307510272",
+      "in_reply_to_user_id": 2914451594,
+      "in_reply_to_user_id_str": "2914451594",
+      "in_reply_to_screen_name": "Goingtobelka",
+      "user":  {
+        "id": 2914451594,
+        "id_str": "2914451594",
+        "name": "Maia is:",
+        "screen_name": "Goingtobelka",
+        "location": "Pacific Northwest",
+        "description": "Furious citizen. Back to say one last thing.",
+        "url": null,
+        "entities":  {
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 6446,
+        "friends_count": 4920,
+        "listed_count": 152,
+        "created_at": "Sun Nov 30 06:45:49 +0000 2014",
+        "favourites_count": 12356,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 12619,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/798191877614772225/d1bHkbsj_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/798191877614772225/d1bHkbsj_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2914451594/1479138797",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+     {
+      "created_at": "Mon Nov 14 22:35:12 +0000 2016",
+      "id": 798293229821104100,
+      "id_str": "798293229821104128",
+      "text": "Freestyle social dancing such as waltz, swing, rumba and foxtrot can help stimulate your brain, Richard Powers says. https://t.co/S1Y1YXOG01",
+      "truncated": false,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "user_mentions":  [],
+        "urls":  [
+           {
+            "url": "https://t.co/S1Y1YXOG01",
+            "expanded_url": "http://stanford.io/2gbjy54",
+            "display_url": "stanford.io/2gbjy54",
+            "indices":  [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata":  {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href="http://www.socialflow.com" rel="nofollow">SocialFlow</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user":  {
+        "id": 857137261,
+        "id_str": "857137261",
+        "name": "Stanford Arts",
+        "screen_name": "StanfordArts",
+        "location": "Stanford University",
+        "description": "Stanford is putting the arts and creativity at the center of a 21st-century education.",
+        "url": "https://t.co/svdHRZpao6",
+        "entities":  {
+          "url":  {
+            "urls":  [
+               {
+                "url": "https://t.co/svdHRZpao6",
+                "expanded_url": "http://arts.stanford.edu",
+                "display_url": "arts.stanford.edu",
+                "indices":  [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description":  {
+            "urls":  []
+          }
+        },
+        "protected": false,
+        "followers_count": 6739,
+        "friends_count": 253,
+        "listed_count": 36,
+        "created_at": "Mon Oct 01 22:43:00 +0000 2012",
+        "favourites_count": 132,
+        "utc_offset": -28800,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 814,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000164945026/orxjGlsV.jpeg",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000164945026/orxjGlsV.jpeg",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/707277442101030912/1MsqN1Yw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/707277442101030912/1MsqN1Yw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/857137261/1466115713",
+        "profile_link_color": "8C1515",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata":  {
+    "completed_in": 0.032,
+    "max_id": 798293257629204500,
+    "max_id_str": "798293257629204480",
+    "query": "stanford",
+    "refresh_url": "?since_id=798293257629204480&q=stanford&include_entities=1",
+    "count": 15,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}
